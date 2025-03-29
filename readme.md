@@ -1,6 +1,6 @@
 # Homework 8
 
-## To see docker repository [click here](https://hub.docker.com/repository/docker/vraj2712/devops_demo/general)
+## To see docker repository [click here](https://hub.docker.com/repository/docker/ykshah1309/devops_demo/general)
 
 ## Screenshot of Docker image
 
